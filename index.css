@@ -1,5 +1,15 @@
+/* clases personalizadas */
 .text-platzi {
     color: #97C93E !important;
+}
+
+.btn-platzi {
+    background-color: #97C93E;
+    color: white;
+}
+
+.btn-platzi:hover {
+    background-color: #82AD36;
 }
 
 #header img {
