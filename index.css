@@ -1,4 +1,12 @@
 /* clases personalizadas */
+.badges {
+    text-align: right;
+}
+
+.badge {
+    padding: 5px;
+}
+
 .text-platzi {
     color: #97C93E !important;
 }
