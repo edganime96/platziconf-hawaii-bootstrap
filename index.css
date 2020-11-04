@@ -1,4 +1,9 @@
 /* clases personalizadas */
+.ux {
+    background-color: purple; 
+    color: white;
+}
+
 .badges {
     text-align: right;
 }
